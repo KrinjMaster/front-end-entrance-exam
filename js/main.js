@@ -1,24 +1,20 @@
-import '../css/style.css'
-import javascriptLogo from '../javascript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.js'
+import "../css/style.css";
+import javascriptLogo from "../javascript.svg";
+import viteLogo from "/vite.svg";
 
-document.querySelector('#app').innerHTML = `
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
-    </a>
-    <h1>Hello Vite!</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
+document.querySelector("#app").innerHTML = `
+  <section class="resume-field">
+    <div class="resume-content">
+      <div class="resume-upper">
+        <img class="resume-img resume-section" src="/random-guy-lmao.jpg"/>
+        <div class="resume-introduction resume-section">
+          <p>Hello 👋🏻 I’m</p> 
+          <div>
+            <h1>Graham Hunt</h1>
+            <h2>Brand/Logo Designer</h2>
+          </div>
+        </div>
+      </div>
     </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
-  </div>
-`
-
-setupCounter(document.querySelector('#counter'))
+  </section>
+`;
