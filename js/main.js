@@ -1,6 +1,4 @@
 import "../css/style.css";
-import javascriptLogo from "../javascript.svg";
-import viteLogo from "/vite.svg";
 import { buttonHandler } from "./buttonhandler";
 
 document.querySelector("#app").innerHTML = `
