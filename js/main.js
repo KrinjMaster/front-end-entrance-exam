@@ -32,13 +32,13 @@ document.querySelector("#app").innerHTML = `
         </ul>
         <ul class="resume-languages-right">
           <li class="resume-bar resume-bar-1">
-            <span />
+            <span></span>
           </li>
           <li class="resume-bar resume-bar-2">
-            <span />
+            <span></span>
           </li>
           <li class="resume-bar resume-bar-3">
-            <span />
+            <span></span>
           </li>
         </ul>
       </div>
@@ -120,7 +120,7 @@ document.querySelector("#app").innerHTML = `
             <div contenteditable="true" class="poppins-light resume-textarea">ivann19bj@gmail.com</div>
           </li>
           <li>
-            <div contenteditable="true" class="poppins-light resume-textarea">|
+            <div contenteditable="true" class="poppins-light resume-textarea">|</div>
           </li>
           <li>
             <div contenteditable="true" class="poppins-light resume-textarea">+34 666 666 666</div>
@@ -155,31 +155,31 @@ document.querySelector("#app").innerHTML = `
               <path d="M14.445 5.42309C13.4925 4.36924 12.15 3.77694 10.755 3.78463C9.39001 3.78463 8.00251 4.38463 7.11001 5.35386C6.94501 5.33847 6.78001 5.32309 6.62251 5.32309C3.94501 5.32309 2.28751 7.63078 2.28751 9.76924C2.29501 10.9231 2.73001 12.0308 3.50251 12.8769C4.31251 13.7615 5.43751 14.2615 6.62251 14.2615H10.755C13.56 14.2615 15.84 11.9 15.84 9.0077C15.825 7.67694 15.33 6.40001 14.445 5.42309ZM6.54001 13.5077C4.55251 13.5077 2.94751 11.8539 2.94751 9.8154C2.94751 7.79232 4.54501 6.14617 6.52501 6.13078C7.40251 6.13078 8.32501 6.42309 8.91001 7.06155L10.4175 8.64617C10.665 8.9077 10.6575 9.32309 10.4025 9.57694C10.1475 9.83078 9.74251 9.82309 9.49501 9.56155L8.02501 8.0077C7.06501 7.16155 5.61751 7.26924 4.79251 8.25386C4.43251 8.67694 4.23751 9.22309 4.23751 9.78463C4.23751 11.0769 5.31001 12.1692 6.57751 12.1692H6.87001C7.29001 12.7692 8.46751 13.5077 8.46751 13.5077H6.54001ZM13.905 12.1846C13.1025 13.0462 11.9925 13.5308 10.83 13.5385C9.72751 13.5385 8.60251 13.0308 7.74001 12.1539L5.77501 10.1231C5.52751 9.86155 5.53501 9.44617 5.78251 9.19232C5.90251 9.06924 6.06001 9.00771 6.23251 9.00771C6.40501 9.00771 6.57001 9.07694 6.69001 9.20771L8.64751 11.2154C9.27001 11.8539 10.065 12.2154 10.83 12.2154C11.6475 12.2154 12.4275 11.8692 12.99 11.2539C13.5675 10.6462 13.89 9.83078 13.89 8.98463C13.89 7.24617 12.51 5.83848 10.815 5.83078C10.17 5.83078 9.63751 5.96155 9.11251 6.33847C8.81531 6.03365 8.17501 5.73079 7.88251 5.66924C8.69251 4.89232 9.70501 4.5154 10.815 4.5154C13.2225 4.5154 15.165 6.5154 15.1725 8.98463C15.1725 10.1769 14.7225 11.3308 13.905 12.1846Z" fill="white"/>
               <defs>
               <radialGradient id="paint0_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(14.9625 15.3846) rotate(46.87) scale(10.751 11.012)">
-              <stop stop-color="#68E048"/>
+              <stop offset="0" stop-color="#68E048"/>
               <stop offset="1" stop-color="#5CE049" stop-opacity="0"/>
               </radialGradient>
               <radialGradient id="paint1_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2.85 15.3077) rotate(137.364) scale(10.9593 11.2674)">
-              <stop stop-color="#308CFE"/>
+              <stop offset="0" stop-color="#308CFE"/>
               <stop offset="1" stop-color="#2F8BFF" stop-opacity="0"/>
               </radialGradient>
               <radialGradient id="paint2_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(14.625 10.0769) rotate(7.9001) scale(6.43608 6.76405)">
-              <stop stop-color="#FDD511"/>
+              <stop offset="0" stop-color="#FDD511"/>
               <stop offset="1" stop-color="#FDD20D" stop-opacity="0"/>
               </radialGradient>
               <radialGradient id="paint3_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(3.075 6.5) rotate(-127.134) scale(9.50414 9.68404)">
-              <stop stop-color="#F928C2"/>
+              <stop offset="0" stop-color="#F928C2"/>
               <stop offset="1" stop-color="#F922BC" stop-opacity="0"/>
               </radialGradient>
               <radialGradient id="paint4_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10.2 3) rotate(-63.404) scale(9.54887 9.64828)">
-              <stop stop-color="#F90700"/>
+              <stop offset="0" stop-color="#F90700"/>
               <stop offset="1" stop-color="#F90700" stop-opacity="0"/>
               </radialGradient>
               <radialGradient id="paint5_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.025 2.61539) rotate(-65.6935) scale(5.73954 5.79005)">
-              <stop stop-color="#FB4200"/>
+              <stop offset="0" stop-color="#FB4200"/>
               <stop offset="1" stop-color="#FB4300" stop-opacity="0"/>
               </radialGradient>
               <radialGradient id="paint6_radial_0_305" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.875 2.19231) rotate(-133.672) scale(5.10478 5.2312)">
-              <stop stop-color="#FE0D88"/>
+              <stop offset="0" stop-color="#FE0D88"/>
               <stop offset="1" stop-color="#FE0D88" stop-opacity="0"/>
               </radialGradient>
               </defs>
@@ -282,10 +282,10 @@ document.querySelector("#app").innerHTML = `
                     <div contenteditable="true" class="poppins-light resume-textarea">Full-time</div>
                   </div>
                 </div>
-                <ul class="resume-experience-list-experience">
+                <div class="resume-experience-list-experience">
                   <div contenteditable="true" class="poppins-light resume-textarea">Research and brainstorm various design ideas for content and marketing.</div>
                   <div contenteditable="true" class="poppins-light resume-textarea">Review the work submitted by Junior Designers and sharing feedback.</div>
-                </ul>
+                </div>
             </div>
           </li>
           <li class="resume-experience-list-2">
@@ -299,11 +299,11 @@ document.querySelector("#app").innerHTML = `
                       <div contenteditable="true" class="poppins-light resume-textarea">Full-time</div>
                     </div>
                   </div>
-                  <ul class="resume-experience-list-experience">
+                  <div class="resume-experience-list-experience">
                     <div contenteditable="true" class="poppins-light resume-textarea">Development of internal projects from scratch, product design of brands.</div>
                     <div contenteditable="true" class="poppins-light resume-textarea">Landing page, webapps and hybrid apps</div>
                     <div contenteditable="true" class="poppins-light resume-textarea">Taking decisions with stakeholders for the future of products such as Beagle labs, myur...</div>
-                  </ul>
+                  </div>
               </div>
           </li>
           <li class="resume-experience-list-3">
@@ -315,11 +315,11 @@ document.querySelector("#app").innerHTML = `
                       <div contenteditable="true" class="poppins-light resume-textarea">Freelance</div>
                     </div>
                   </div>
-                  <ul class="resume-experience-list-experience">
+                  <div class="resume-experience-list-experience">
                     <div contenteditable="true" class="poppins-light resume-textarea">Visual design for Events, Brands and Products.</div>
                     <div contenteditable="true" class="poppins-light resume-textarea">Product design, Packaging Design</div>
                     <div contenteditable="true" class="poppins-light resume-textarea">Logo Design</div>
-                  </ul>
+                  </div>
               </div>
           </li>
         </ul>
