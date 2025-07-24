@@ -191,6 +191,7 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   overflow-x: hidden;
+  background-color: #f1f5f9;
 }
 
 .resume-content {
@@ -200,8 +201,7 @@ body {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  border: 3px solid var(--resume-section-bg);
-  border-radius: 15px;
+  background-color: white;
 }
 
 .save-button {
