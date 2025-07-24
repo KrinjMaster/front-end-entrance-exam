@@ -200,7 +200,8 @@ body {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  border: 1px solid black;
+  border: 3px solid var(--resume-section-bg);
+  border-radius: 15px;
 }
 
 .save-button {
